@@ -1,2 +1,1 @@
 # thirdeye.ai
-Landing Page
